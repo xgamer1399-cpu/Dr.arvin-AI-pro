@@ -1,0 +1,8 @@
+{
+  "name": "V2.8 of Dr. Arvin: Business AI Pro",
+  "description": "An AI-powered business strategy consultant, Dr. Arvin, designed to transform ideas into profitable businesses, with a focus on the Iranian market. Leveraging deep expertise in business frameworks, customs law, and corporate strategy, Dr. Arvin provides actionable, data-driven advice.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
